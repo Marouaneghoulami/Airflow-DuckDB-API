@@ -1,0 +1,56 @@
+[2024-11-03T03:49:03.160+0000] {processor.py:186} INFO - Started process (PID=1991) to work on /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+[2024-11-03T03:49:03.161+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:49:03.162+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:49:03.162+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+[2024-11-03T03:49:03.191+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:49:03.188+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py", line 9, in <module>
+    from ..logic import raw_fetch_sales_api as rfsa
+ImportError: attempted relative import with no known parent package
+[2024-11-03T03:49:03.192+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+[2024-11-03T03:49:03.205+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py took 0.048 seconds
+[2024-11-03T03:49:33.336+0000] {processor.py:186} INFO - Started process (PID=2058) to work on /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+[2024-11-03T03:49:33.336+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:49:33.337+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:49:33.337+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+[2024-11-03T03:49:33.366+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:49:33.363+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py", line 9, in <module>
+    from ..logic import raw_fetch_sales_api as rfsa
+ImportError: attempted relative import with no known parent package
+[2024-11-03T03:49:33.366+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+[2024-11-03T03:49:33.379+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py took 0.046 seconds
+[2024-11-03T03:50:03.464+0000] {processor.py:186} INFO - Started process (PID=2124) to work on /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+[2024-11-03T03:50:03.465+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:50:03.465+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:50:03.465+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+[2024-11-03T03:50:03.506+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:50:03.504+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py", line 9, in <module>
+    from logic import raw_fetch_sales_api as rfsa
+ModuleNotFoundError: No module named 'logic'
+[2024-11-03T03:50:03.507+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+[2024-11-03T03:50:03.521+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py took 0.060 seconds
+[2024-11-03T03:50:33.627+0000] {processor.py:186} INFO - Started process (PID=2190) to work on /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+[2024-11-03T03:50:33.628+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:50:33.629+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:50:33.629+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+[2024-11-03T03:50:33.659+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:50:33.657+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py", line 9, in <module>
+    from logic import raw_fetch_sales_api as rfsa
+ModuleNotFoundError: No module named 'logic'
+[2024-11-03T03:50:33.660+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py
+[2024-11-03T03:50:33.671+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/raw/dags/dag_load_sales_data_to_db.py took 0.046 seconds

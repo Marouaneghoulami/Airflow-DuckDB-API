@@ -1,0 +1,308 @@
+[2024-11-03T03:24:05.715+0000] {processor.py:186} INFO - Started process (PID=681) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:24:05.716+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:24:05.716+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:24:05.716+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:24:05.755+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:24:05.813+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:24:05.813+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:24:05.825+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:24:05.824+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:24:00+00:00, run_after=2024-11-03 03:25:00+00:00
+[2024-11-03T03:24:05.838+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.126 seconds
+[2024-11-03T03:24:36.050+0000] {processor.py:186} INFO - Started process (PID=747) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:24:36.051+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:24:36.052+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:24:36.051+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:24:36.103+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:24:36.113+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:24:36.113+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:24:36.125+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:24:36.125+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:24:00+00:00, run_after=2024-11-03 03:25:00+00:00
+[2024-11-03T03:24:36.133+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.086 seconds
+[2024-11-03T03:25:06.331+0000] {processor.py:186} INFO - Started process (PID=813) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:25:06.332+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:25:06.333+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:25:06.332+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:25:06.369+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:25:06.380+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:25:06.380+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:25:06.392+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:25:06.392+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:25:00+00:00, run_after=2024-11-03 03:26:00+00:00
+[2024-11-03T03:25:06.402+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.075 seconds
+[2024-11-03T03:25:37.410+0000] {processor.py:186} INFO - Started process (PID=879) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:25:37.411+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:25:37.412+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:25:37.412+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:25:37.456+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:25:37.468+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:25:37.468+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:25:37.480+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:25:37.480+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:25:00+00:00, run_after=2024-11-03 03:26:00+00:00
+[2024-11-03T03:25:37.489+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.082 seconds
+[2024-11-03T03:26:07.624+0000] {processor.py:186} INFO - Started process (PID=945) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:26:07.625+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:26:07.626+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:26:07.625+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:26:07.662+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:26:07.673+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:26:07.673+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:26:07.686+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:26:07.685+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:26:00+00:00, run_after=2024-11-03 03:27:00+00:00
+[2024-11-03T03:26:07.695+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.074 seconds
+[2024-11-03T03:26:37.982+0000] {processor.py:186} INFO - Started process (PID=1010) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:26:37.983+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:26:37.984+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:26:37.984+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:26:38.031+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:26:38.042+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:26:38.042+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:26:38.054+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:26:38.054+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:26:00+00:00, run_after=2024-11-03 03:27:00+00:00
+[2024-11-03T03:26:38.063+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.084 seconds
+[2024-11-03T03:27:08.134+0000] {processor.py:186} INFO - Started process (PID=1076) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:27:08.134+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:27:08.135+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:27:08.135+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:27:08.172+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:27:08.182+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:27:08.182+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:27:08.193+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:27:08.193+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:27:00+00:00, run_after=2024-11-03 03:28:00+00:00
+[2024-11-03T03:27:08.202+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.072 seconds
+[2024-11-03T03:28:03.077+0000] {processor.py:186} INFO - Started process (PID=28) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:28:03.078+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:28:03.080+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:28:03.080+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:28:03.123+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:28:03.147+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:28:03.147+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:28:03.162+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:28:03.162+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:28:00+00:00, run_after=2024-11-03 03:29:00+00:00
+[2024-11-03T03:28:03.170+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.097 seconds
+[2024-11-03T03:28:33.941+0000] {processor.py:186} INFO - Started process (PID=94) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:28:33.942+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:28:33.943+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:28:33.943+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:28:33.989+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:28:34.000+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:28:34.000+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:28:34.012+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:28:34.012+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:28:00+00:00, run_after=2024-11-03 03:29:00+00:00
+[2024-11-03T03:28:34.023+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.085 seconds
+[2024-11-03T03:29:04.052+0000] {processor.py:186} INFO - Started process (PID=160) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:29:04.053+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:29:04.054+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:29:04.054+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:29:04.093+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:29:04.104+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:29:04.104+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:29:04.115+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:29:04.115+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:29:00+00:00, run_after=2024-11-03 03:30:00+00:00
+[2024-11-03T03:29:04.124+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.075 seconds
+[2024-11-03T03:29:34.227+0000] {processor.py:186} INFO - Started process (PID=226) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:29:34.228+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:29:34.230+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:29:34.229+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:29:34.278+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:29:34.289+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:29:34.289+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:29:34.302+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:29:34.302+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:29:00+00:00, run_after=2024-11-03 03:30:00+00:00
+[2024-11-03T03:29:34.311+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.088 seconds
+[2024-11-03T03:30:04.452+0000] {processor.py:186} INFO - Started process (PID=292) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:30:04.453+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:30:04.454+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:30:04.454+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:30:04.496+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:30:04.508+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:30:04.508+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:30:04.521+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:30:04.521+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:30:00+00:00, run_after=2024-11-03 03:31:00+00:00
+[2024-11-03T03:30:04.531+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.082 seconds
+[2024-11-03T03:30:34.622+0000] {processor.py:186} INFO - Started process (PID=358) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:30:34.623+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:30:34.624+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:30:34.624+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:30:34.671+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:30:34.682+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:30:34.681+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:30:34.693+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:30:34.693+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:30:00+00:00, run_after=2024-11-03 03:31:00+00:00
+[2024-11-03T03:30:34.704+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.086 seconds
+[2024-11-03T03:31:04.854+0000] {processor.py:186} INFO - Started process (PID=424) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:31:04.855+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:31:04.857+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:31:04.857+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:31:04.898+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:31:04.911+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:31:04.911+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:31:04.924+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:31:04.924+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:31:00+00:00, run_after=2024-11-03 03:32:00+00:00
+[2024-11-03T03:31:04.934+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.084 seconds
+[2024-11-03T03:31:35.936+0000] {processor.py:186} INFO - Started process (PID=490) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:31:35.936+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:31:35.938+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:31:35.937+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:31:35.988+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:31:36.000+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:31:36.000+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:31:36.015+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:31:36.015+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:31:00+00:00, run_after=2024-11-03 03:32:00+00:00
+[2024-11-03T03:31:36.025+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.092 seconds
+[2024-11-03T03:32:06.098+0000] {processor.py:186} INFO - Started process (PID=556) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:32:06.098+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:32:06.100+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:32:06.100+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:32:06.142+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:32:06.154+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:32:06.154+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:32:06.167+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:32:06.166+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:32:00+00:00, run_after=2024-11-03 03:33:00+00:00
+[2024-11-03T03:32:06.178+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.083 seconds
+[2024-11-03T03:32:36.247+0000] {processor.py:186} INFO - Started process (PID=621) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:32:36.248+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:32:36.249+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:32:36.249+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:32:36.298+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:32:36.310+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:32:36.309+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:32:36.322+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:32:36.321+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:32:00+00:00, run_after=2024-11-03 03:33:00+00:00
+[2024-11-03T03:32:36.331+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.088 seconds
+[2024-11-03T03:33:06.531+0000] {processor.py:186} INFO - Started process (PID=686) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:33:06.532+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:33:06.533+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:33:06.533+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:33:06.573+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:33:06.586+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:33:06.586+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:33:06.598+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:33:06.598+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:33:00+00:00, run_after=2024-11-03 03:34:00+00:00
+[2024-11-03T03:33:06.609+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.081 seconds
+[2024-11-03T03:34:01.365+0000] {processor.py:186} INFO - Started process (PID=27) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:34:01.366+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:34:01.367+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:34:01.367+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:34:01.417+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:34:01.433+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:34:01.433+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:34:01.445+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:34:01.445+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:34:00+00:00, run_after=2024-11-03 03:35:00+00:00
+[2024-11-03T03:34:01.454+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.091 seconds
+[2024-11-03T03:34:31.802+0000] {processor.py:186} INFO - Started process (PID=93) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:34:31.803+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:34:31.805+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:34:31.805+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:34:31.849+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:34:31.861+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:34:31.860+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:34:31.873+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:34:31.873+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:34:00+00:00, run_after=2024-11-03 03:35:00+00:00
+[2024-11-03T03:34:31.883+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.084 seconds
+[2024-11-03T03:35:02.785+0000] {processor.py:186} INFO - Started process (PID=159) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:35:02.786+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:35:02.789+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:35:02.788+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:35:02.845+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:35:02.898+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:35:02.887+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:35:02.920+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:35:02.919+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:35:00+00:00, run_after=2024-11-03 03:36:00+00:00
+[2024-11-03T03:35:02.931+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.152 seconds
+[2024-11-03T03:35:12.061+0000] {processor.py:186} INFO - Started process (PID=219) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:35:12.062+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:35:12.063+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:35:12.063+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:35:12.102+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:35:12.113+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:35:12.112+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:35:12.124+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:35:12.124+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:35:00+00:00, run_after=2024-11-03 03:36:00+00:00
+[2024-11-03T03:35:12.133+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.075 seconds
+[2024-11-03T03:35:18.109+0000] {processor.py:186} INFO - Started process (PID=223) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:35:18.110+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:35:18.111+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:35:18.111+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:35:18.149+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:35:18.160+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:35:18.160+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:35:18.173+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:35:18.173+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:35:00+00:00, run_after=2024-11-03 03:36:00+00:00
+[2024-11-03T03:35:18.182+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.077 seconds
+[2024-11-03T03:35:48.299+0000] {processor.py:186} INFO - Started process (PID=288) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:35:48.299+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:35:48.301+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:35:48.301+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:35:48.348+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:35:48.358+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:35:48.358+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:35:48.369+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:35:48.369+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:35:00+00:00, run_after=2024-11-03 03:36:00+00:00
+[2024-11-03T03:35:48.378+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.083 seconds
+[2024-11-03T03:36:01.381+0000] {processor.py:186} INFO - Started process (PID=298) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:36:01.382+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:36:01.383+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:36:01.383+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:36:01.421+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:36:01.435+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:36:01.435+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:36:01.448+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:36:01.448+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:36:00+00:00, run_after=2024-11-03 03:37:00+00:00
+[2024-11-03T03:36:01.462+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.084 seconds
+[2024-11-03T03:36:31.804+0000] {processor.py:186} INFO - Started process (PID=365) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:36:31.804+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:36:31.806+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:36:31.806+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:36:31.853+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:36:31.865+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:36:31.865+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:36:31.878+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:36:31.878+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:36:00+00:00, run_after=2024-11-03 03:37:00+00:00
+[2024-11-03T03:36:31.888+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.088 seconds
+[2024-11-03T03:37:02.047+0000] {processor.py:186} INFO - Started process (PID=431) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:37:02.048+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:37:02.049+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:37:02.049+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:37:02.088+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:37:02.101+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:37:02.100+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:37:02.116+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:37:02.116+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:37:00+00:00, run_after=2024-11-03 03:38:00+00:00
+[2024-11-03T03:37:02.131+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.088 seconds
+[2024-11-03T03:37:32.343+0000] {processor.py:186} INFO - Started process (PID=497) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:37:32.344+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:37:32.346+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:37:32.346+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:37:32.395+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:37:32.408+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:37:32.408+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:37:32.422+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:37:32.422+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:37:00+00:00, run_after=2024-11-03 03:38:00+00:00
+[2024-11-03T03:37:32.432+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.094 seconds
+[2024-11-03T03:38:02.623+0000] {processor.py:186} INFO - Started process (PID=563) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:38:02.623+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:38:02.625+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:38:02.624+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:38:02.660+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:38:02.672+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:38:02.671+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:38:02.684+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:38:02.684+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:38:00+00:00, run_after=2024-11-03 03:39:00+00:00
+[2024-11-03T03:38:02.695+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.076 seconds
+[2024-11-03T03:38:32.949+0000] {processor.py:186} INFO - Started process (PID=629) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:38:32.949+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:38:32.951+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:38:32.951+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:38:32.996+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:38:33.007+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:38:33.007+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:38:33.018+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:38:33.018+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:38:00+00:00, run_after=2024-11-03 03:39:00+00:00
+[2024-11-03T03:38:33.027+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.081 seconds
+[2024-11-03T03:39:03.298+0000] {processor.py:186} INFO - Started process (PID=695) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:39:03.299+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:39:03.300+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:39:03.300+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:39:03.335+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:39:03.346+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:39:03.346+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:39:03.357+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:39:03.357+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:39:00+00:00, run_after=2024-11-03 03:40:00+00:00
+[2024-11-03T03:39:03.366+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.071 seconds
+[2024-11-03T03:39:33.688+0000] {processor.py:186} INFO - Started process (PID=761) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:39:33.689+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:39:33.691+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:39:33.690+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:39:33.745+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:39:33.757+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:39:33.757+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:39:33.772+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:39:33.772+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:39:00+00:00, run_after=2024-11-03 03:40:00+00:00
+[2024-11-03T03:39:33.784+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.100 seconds
+[2024-11-03T03:40:04.784+0000] {processor.py:186} INFO - Started process (PID=827) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:40:04.784+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:40:04.786+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:40:04.786+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:40:04.842+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:40:04.855+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:40:04.855+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:40:04.869+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:40:04.868+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:40:00+00:00, run_after=2024-11-03 03:41:00+00:00
+[2024-11-03T03:40:04.879+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.099 seconds
+[2024-11-03T03:40:35.205+0000] {processor.py:186} INFO - Started process (PID=893) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:40:35.206+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:40:35.207+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:40:35.207+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:40:35.253+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:40:35.265+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:40:35.265+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:40:35.278+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:40:35.277+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:40:00+00:00, run_after=2024-11-03 03:41:00+00:00
+[2024-11-03T03:40:35.289+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.088 seconds
+[2024-11-03T03:41:05.456+0000] {processor.py:186} INFO - Started process (PID=959) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:41:05.457+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:41:05.458+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:41:05.458+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:41:05.500+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:41:05.512+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:41:05.512+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:41:05.524+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:41:05.524+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:41:00+00:00, run_after=2024-11-03 03:42:00+00:00
+[2024-11-03T03:41:05.533+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.081 seconds
+[2024-11-03T03:41:35.693+0000] {processor.py:186} INFO - Started process (PID=1026) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:41:35.694+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:41:35.696+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:41:35.695+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:41:35.743+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:41:35.757+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:41:35.757+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:41:35.769+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:41:35.769+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:41:00+00:00, run_after=2024-11-03 03:42:00+00:00
+[2024-11-03T03:41:35.781+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.093 seconds
+[2024-11-03T03:42:05.966+0000] {processor.py:186} INFO - Started process (PID=1092) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:42:05.967+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:42:05.968+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:42:05.968+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:42:06.005+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:42:06.017+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:42:06.017+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:42:06.029+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:42:06.028+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:42:00+00:00, run_after=2024-11-03 03:43:00+00:00
+[2024-11-03T03:42:06.039+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.076 seconds
+[2024-11-03T03:42:36.317+0000] {processor.py:186} INFO - Started process (PID=1158) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:42:36.318+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:42:36.319+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:42:36.319+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:42:36.365+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:42:36.377+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:42:36.377+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:42:36.390+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:42:36.390+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:42:00+00:00, run_after=2024-11-03 03:43:00+00:00
+[2024-11-03T03:42:36.401+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.087 seconds
+[2024-11-03T03:43:06.995+0000] {processor.py:186} INFO - Started process (PID=1225) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:43:06.996+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:43:06.998+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:43:06.997+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:43:07.035+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:43:07.046+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:43:07.046+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:43:07.058+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:43:07.058+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:43:00+00:00, run_after=2024-11-03 03:44:00+00:00
+[2024-11-03T03:43:07.067+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.074 seconds
+[2024-11-03T03:43:37.233+0000] {processor.py:186} INFO - Started process (PID=1291) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:43:37.233+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:43:37.235+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:43:37.235+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:43:37.289+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:43:37.301+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:43:37.300+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:43:37.314+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:43:37.314+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:43:00+00:00, run_after=2024-11-03 03:44:00+00:00
+[2024-11-03T03:43:37.324+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.095 seconds
+[2024-11-03T03:44:07.454+0000] {processor.py:186} INFO - Started process (PID=1356) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:44:07.455+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:44:07.457+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:44:07.457+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:44:07.497+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:44:07.509+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:44:07.509+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:44:07.522+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:44:07.522+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:44:00+00:00, run_after=2024-11-03 03:45:00+00:00
+[2024-11-03T03:44:07.533+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.081 seconds
+[2024-11-03T03:44:37.648+0000] {processor.py:186} INFO - Started process (PID=1422) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:44:37.648+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:44:37.650+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:44:37.649+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:44:37.697+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:44:37.709+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:44:37.709+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:44:37.722+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:44:37.722+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:44:00+00:00, run_after=2024-11-03 03:45:00+00:00
+[2024-11-03T03:44:37.732+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.088 seconds
+[2024-11-03T03:45:08.721+0000] {processor.py:186} INFO - Started process (PID=1487) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:45:08.721+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:45:08.723+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:45:08.723+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:45:08.766+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:45:08.780+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:45:08.779+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:45:08.794+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:45:08.794+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:45:00+00:00, run_after=2024-11-03 03:46:00+00:00
+[2024-11-03T03:45:08.805+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.088 seconds
+[2024-11-03T03:45:39.122+0000] {processor.py:186} INFO - Started process (PID=1554) to work on /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:45:39.122+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py for tasks to queue
+[2024-11-03T03:45:39.124+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:45:39.124+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:45:39.168+0000] {processor.py:925} INFO - DAG(s) 'load_sales_data_to_db' retrieved from /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py
+[2024-11-03T03:45:39.180+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:45:39.180+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-03T03:45:39.192+0000] {logging_mixin.py:190} INFO - [2024-11-03T03:45:39.192+0000] {dag.py:4180} INFO - Setting next_dagrun for load_sales_data_to_db to 2024-11-03 03:45:00+00:00, run_after=2024-11-03 03:46:00+00:00
+[2024-11-03T03:45:39.204+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/dags/raw/dag_load_sales_data_to_db.py took 0.085 seconds

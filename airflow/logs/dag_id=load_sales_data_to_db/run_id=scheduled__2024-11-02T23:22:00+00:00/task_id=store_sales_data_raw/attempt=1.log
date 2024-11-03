@@ -1,0 +1,30 @@
+[2024-11-02T23:23:04.579+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-02T23:23:04.591+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: load_sales_data_to_db.store_sales_data_raw scheduled__2024-11-02T23:22:00+00:00 [queued]>
+[2024-11-02T23:23:04.596+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: load_sales_data_to_db.store_sales_data_raw scheduled__2024-11-02T23:22:00+00:00 [queued]>
+[2024-11-02T23:23:04.596+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 2
+[2024-11-02T23:23:04.603+0000] {taskinstance.py:2888} INFO - Executing <Task(PythonOperator): store_sales_data_raw> on 2024-11-02 23:22:00+00:00
+[2024-11-02T23:23:04.608+0000] {warnings.py:112} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70: DeprecationWarning: This process (pid=1284) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2024-11-02T23:23:04.609+0000] {standard_task_runner.py:72} INFO - Started process 1289 to run task
+[2024-11-02T23:23:04.609+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'load_sales_data_to_db', 'store_sales_data_raw', 'scheduled__2024-11-02T23:22:00+00:00', '--job-id', '200', '--raw', '--subdir', 'DAGS_FOLDER/raw/sales.py', '--cfg-path', '/tmp/tmpmda6fcvo']
+[2024-11-02T23:23:04.610+0000] {standard_task_runner.py:105} INFO - Job 200: Subtask store_sales_data_raw
+[2024-11-02T23:23:04.645+0000] {task_command.py:467} INFO - Running <TaskInstance: load_sales_data_to_db.store_sales_data_raw scheduled__2024-11-02T23:22:00+00:00 [running]> on host f05559d9e656
+[2024-11-02T23:23:04.696+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='load_sales_data_to_db' AIRFLOW_CTX_TASK_ID='store_sales_data_raw' AIRFLOW_CTX_EXECUTION_DATE='2024-11-02T23:22:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-11-02T23:22:00+00:00'
+[2024-11-02T23:23:04.697+0000] {logging_mixin.py:190} INFO - Task instance is in running state
+[2024-11-02T23:23:04.697+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2024-11-02T23:23:04.697+0000] {logging_mixin.py:190} INFO - Current task name:store_sales_data_raw state:running start_date:2024-11-02 23:23:04.591413+00:00
+[2024-11-02T23:23:04.698+0000] {logging_mixin.py:190} INFO - Dag name:load_sales_data_to_db and current dag run status:running
+[2024-11-02T23:23:04.698+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-02T23:23:04.765+0000] {sales.py:91} INFO - Data successfully inserted into DuckDB raw_layer.sales table.
+[2024-11-02T23:23:04.787+0000] {sales.py:98} INFO - Closed DuckDB connection.
+[2024-11-02T23:23:04.788+0000] {python.py:240} INFO - Done. Returned value was: None
+[2024-11-02T23:23:04.795+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-02T23:23:04.795+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=load_sales_data_to_db, task_id=store_sales_data_raw, run_id=scheduled__2024-11-02T23:22:00+00:00, execution_date=20241102T232200, start_date=20241102T232304, end_date=20241102T232304
+[2024-11-02T23:23:04.801+0000] {logging_mixin.py:190} INFO - Task instance in success state
+[2024-11-02T23:23:04.801+0000] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2024-11-02T23:23:04.802+0000] {logging_mixin.py:190} INFO - Dag name:load_sales_data_to_db queued_at:2024-11-02 23:23:00.562635+00:00
+[2024-11-02T23:23:04.803+0000] {logging_mixin.py:190} INFO - Task hostname:f05559d9e656 operator:PythonOperator
+[2024-11-02T23:23:04.825+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-02T23:23:04.839+0000] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-11-02T23:23:04.841+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
